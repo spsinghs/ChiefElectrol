@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Voters Service">
+    <menu>
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_menu_search"
+        android:title="Search in E-Roll" />
+    <item
+        android:id="@+id/nav_boothNear"
+        android:icon="@drawable/ic_menu_booth"
+        android:title="Booth Nearest You" />
+    <item
+        android:id="@+id/nav_way2booth"
+        android:icon="@drawable/ic_menu_way2"
+        android:title="Way2Booth" />
+    <item
+        android:id="@+id/nav_forms"
+        android:icon="@drawable/ic_menu_forms"
+        android:title="Citizen Services" />
+    <item
+        android:id="@+id/nav_mobile"
+        android:icon="@drawable/ic_menu_mobile"
+        android:title="Mobile Registration" />
+    <item
+        android:id="@+id/nav_pwd"
+        android:icon="@drawable/ic_menu_pwd"
+        android:title="PWD Registration" />
+    </menu>
+</item>
+    <group android:checkableBehavior="single" ></group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

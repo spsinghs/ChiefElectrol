@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ChiefElectrolPunjab</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="spn_district">
+        <item>--Select District--</item>
+        <item>01-Pathankot</item>
+        <item>02-Gurdaspur</item>
+        <item>03-Amritsar</item>
+        <item>04-Tarn Taran</item>
+        <item>05-Kapurthala</item>
+        <item>06-Jalandhar</item>
+        <item>07-Hoshiarpur</item>
+        <item>08-Nawan Shahr</item>
+        <item>09-Rupnagar</item>
+        <item>10-SAS Nagar</item>
+        <item>11-Fatehgarh Sahib</item>
+        <item>12-Ludhiana</item>
+        <item>13-Moga</item>
+        <item>14-Firozepur</item>
+        <item>15-Fazilka</item>
+        <item>16-Muktsar</item>
+        <item>17-Faridkot</item>
+        <item>18-Bathinda</item>
+        <item>19-Mansa</item>
+        <item>20-Sangrur</item>
+        <item>21-Barnala</item>
+        <item>22-Patiala </item>
+    </string-array>
+
+</resources>
